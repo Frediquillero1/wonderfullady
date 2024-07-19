@@ -1,4 +1,4 @@
-<h1 align="center">Wonderful Lady Not Only For Womens 👩‍🦰</h1>
+<h1 align="center">Wonder Lady Not Only For Womens 👩‍🦰</h1>
 
 ![Demo App](/public/demo-for-readme.png)
 
