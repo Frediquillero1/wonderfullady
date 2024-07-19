@@ -78,4 +78,4 @@ This project is built for "OnlyEducational" purposes. 😳
 <hr/>
 
 ### I'll see you in the next one! 🚀
-# wonderfullady
+# WonderLady
